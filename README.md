@@ -29,7 +29,7 @@ A fun and interactive Tic Tac Toe game created using **HTML**, **CSS**, and **Ja
 ## 🖼️ Preview
 
 ![Tic Tac Toe Demo](preview.gif)  
-*(Add a GIF or image to show off the UI here)*
+
 ![image](https://github.com/user-attachments/assets/1fdcf811-d9fd-4797-bf10-aea972bf4692)
 
 
